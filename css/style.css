@@ -1,0 +1,127 @@
+
+
+.menu{
+	float: right;
+	color: #000000;
+}
+
+.main{
+	color: 	#800080;
+	font-size: 19px;
+
+}
+
+.dropdown-toggle{
+	font-size: 19px;
+}
+
+.main{
+	color: #000;
+}
+
+/*Контент*/
+
+.imgContent{
+	float: left;
+	position: absolute;
+	color: #000;
+	clear: both;
+	margin-left: 605px;
+	margin-top: 110px;
+}
+
+.information{
+	float: left;
+	padding-top: 200px;
+	margin-left: 690px;
+	position: relative;
+}
+
+.informationB{
+	float: left;
+	text-align: center;
+	font-size: 29px;
+	font-family: monospace;
+	position: relative;
+	padding-top: 200px;
+	color: #fff;
+}
+
+.informationS{
+	font-size: 19px;
+	line-height: 18px;
+	color: #fff;
+	text-decoration: none;
+}
+
+.someClassInformation{
+	font-size: 15px;
+	font-family: monospace;
+	float: right;
+	margin-top: 110px;
+	margin-right: 40px;
+	text-align: center;
+}
+
+.img_bilous{
+	padding-right: 7px;
+	padding-left: 7px;
+	padding-top: 11px;
+}
+
+.button{
+	font-family: monospace;
+	border-radius: 0;
+	padding-right: 22px;
+	padding-left: 12px;
+	margin-bottom: 35px;
+	text-align: center;
+}
+
+.btn-group-vertical > .btn{
+	left: 11px;
+}
+
+/*Дно сайту*/
+
+.footer{
+
+}
+
+a{
+	text-decoration: none;
+}
+
+.img_footer{
+	position: absolute;
+	margin-top: 90px;
+	padding-top: 100px;
+}
+
+.footerInformationOserdki{
+	float: left;
+	color: #ffffff;
+	margin-left: 90px;
+	margin-top: 400px;
+	position: relative;
+	font-size: 31px;
+	text-decoration: none;
+}
+
+.footerInformationTeacher{
+	float: center;
+	color: #ffffff;
+	position: relative;
+	margin-top: 400px;
+	margin-left: 250px;
+	font-size: 31px;
+}
+
+.footerInformationChildren{
+	float: right;
+	color: #ffffff;
+	position: relative;
+	margin-top: 400px;;
+	margin-left: 350px;
+	font-size: 31px;
+}
